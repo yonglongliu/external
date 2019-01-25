@@ -1,0 +1,12 @@
+12accountroot=DMAcc
+dp_split_support=true 
+ca_cert_path=/etc/security/cacerts
+handoff_dir=/data/local/tmp/rjio/workdir
+dp_path_file=/data/local/tmp/rjio/dp
+ua_result_file=/cache/result
+dp_full_path=/data/local/tmp/rjio
+scomo_battery_threshold=30
+sales_tracker_sms_regist_smsc=7345673456
+enable_ipc_debugging=true
+sales_tracker_regist_mode=both
+min_file_size=1024

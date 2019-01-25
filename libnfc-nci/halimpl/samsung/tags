@@ -1,0 +1,834 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADDITIONAL_INFO_SIZE	src/persistent_log.c	32;"	d	file:
+CFG_DATA_TRACE	include/hal.h	/^    CFG_DATA_TRACE,$/;"	e	enum:__anon11
+CFG_FILE	src/util.c	28;"	d	file:
+CFG_FW_BASE_ADDRESS	include/hal.h	/^    CFG_FW_BASE_ADDRESS$/;"	e	enum:__anon11
+CFG_FW_CLK_REQ	include/hal.h	/^    CFG_FW_CLK_REQ,$/;"	e	enum:__anon11
+CFG_FW_CLK_SPEED	include/hal.h	/^    CFG_FW_CLK_SPEED,$/;"	e	enum:__anon11
+CFG_FW_CLK_TYPE	include/hal.h	/^    CFG_FW_CLK_TYPE,$/;"	e	enum:__anon11
+CFG_FW_FILE	include/hal.h	/^    CFG_FW_FILE,$/;"	e	enum:__anon11
+CFG_NCI_PROP	include/hal.h	/^    CFG_NCI_PROP,$/;"	e	enum:__anon11
+CFG_POWER_DRIVER	include/hal.h	/^    CFG_POWER_DRIVER,$/;"	e	enum:__anon11
+CFG_RFREG_FILE	include/hal.h	/^    CFG_RFREG_FILE,$/;"	e	enum:__anon11
+CFG_RFREG_FILE_FOR_MPOS	include/hal.h	/^    CFG_RFREG_FILE_FOR_MPOS,$/;"	e	enum:__anon11
+CFG_RFREG_FILE_FOR_OLD_HW	include/hal.h	/^    CFG_RFREG_FILE_FOR_OLD_HW,$/;"	e	enum:__anon11
+CFG_RFREG_FILE_FOR_SG	include/hal.h	/^    CFG_RFREG_FILE_FOR_SG,$/;"	e	enum:__anon11
+CFG_RFREG_FILE_FOR_THL	include/hal.h	/^    CFG_RFREG_FILE_FOR_THL,$/;"	e	enum:__anon11
+CFG_RF_REG	include/hal.h	/^    CFG_RF_REG,$/;"	e	enum:__anon11
+CFG_RO_REVISION_FOR_OLD_HW	include/hal.h	/^    CFG_RO_REVISION_FOR_OLD_HW,$/;"	e	enum:__anon11
+CFG_SLEEP_TIMEOUT	include/hal.h	/^    CFG_SLEEP_TIMEOUT = 0,$/;"	e	enum:__anon11
+CFG_TRACE_LEVEL	include/hal.h	/^    CFG_TRACE_LEVEL,$/;"	e	enum:__anon11
+CFG_TRANS_DRIVER	include/hal.h	/^    CFG_TRANS_DRIVER,$/;"	e	enum:__anon11
+CFG_UPDATE_MODE	include/hal.h	/^    CFG_UPDATE_MODE,$/;"	e	enum:__anon11
+CFG_WAKEUP_DELAY	include/hal.h	/^    CFG_WAKEUP_DELAY,$/;"	e	enum:__anon11
+CMD_BUFFER_SIZE	src/persistent_log.c	34;"	d	file:
+CORE_CONN_CLOSE	include/util_tracer.h	/^    CORE_CONN_CLOSE,$/;"	e	enum:TRC_OID_CORE
+CORE_CONN_CREATE	include/util_tracer.h	/^    CORE_CONN_CREATE,$/;"	e	enum:TRC_OID_CORE
+CORE_CONN_CREDITS	include/util_tracer.h	/^    CORE_CONN_CREDITS,$/;"	e	enum:TRC_OID_CORE
+CORE_GENERIC_ERROR	include/util_tracer.h	/^    CORE_GENERIC_ERROR,$/;"	e	enum:TRC_OID_CORE
+CORE_GET_CONFIG	include/util_tracer.h	/^    CORE_GET_CONFIG,$/;"	e	enum:TRC_OID_CORE
+CORE_INIT	include/util_tracer.h	/^    CORE_INIT,$/;"	e	enum:TRC_OID_CORE
+CORE_INTERFACE_ERROR	include/util_tracer.h	/^    CORE_INTERFACE_ERROR,$/;"	e	enum:TRC_OID_CORE
+CORE_RESET	include/util_tracer.h	/^    CORE_RESET,$/;"	e	enum:TRC_OID_CORE
+CORE_SET_CONFIG	include/util_tracer.h	/^    CORE_SET_CONFIG,$/;"	e	enum:TRC_OID_CORE
+DEFAULT_CODE	src/hal_selectImage_TN.c	37;"	d	file:
+EFS_SIGN_LENGTH	include/util.h	32;"	d
+FIELD_NAME_FW_DIR_PATH	src/hal_selectImage_TN.c	41;"	d	file:
+FIELD_NAME_FW_FILE_NAME	src/hal_selectImage_TN.c	44;"	d	file:
+FIELD_NAME_MPOS_POST_FIX	src/hal_selectImage_TN.c	45;"	d	file:
+FIELD_NAME_RF_DIR_PATH	src/hal_selectImage_TN.c	42;"	d	file:
+FIELD_NAME_RF_FILE_NAME	src/hal_selectImage_TN.c	46;"	d	file:
+FIELD_NAME_UFU_DIR_PATH	src/hal_selectImage_TN.c	40;"	d	file:
+FIELD_OLD_FW_FILE	src/hal_selectImage_TN.c	48;"	d	file:
+FIELD_OLD_FW_FILE_UFU	src/hal_selectImage_TN.c	50;"	d	file:
+FIELD_OLD_RF_FILE	src/hal_selectImage_TN.c	49;"	d	file:
+FIELD_OLD_RF_FILE_UFU	src/hal_selectImage_TN.c	51;"	d	file:
+FILE_NAME_UFU_FW	src/hal_selectImage_TN.c	53;"	d	file:
+FILE_NAME_UFU_RFREG	src/hal_selectImage_TN.c	54;"	d	file:
+FROM_LITTLE_ARRY	include/hal.h	336;"	d
+FW_BASE_ADDRESS_N3	include/hal.h	57;"	d
+FW_BASE_ADDRESS_N5	include/hal.h	58;"	d
+FW_CMD_COMPLETE_UPDATE_MODE	include/hal_msg.h	/^    FW_CMD_COMPLETE_UPDATE_MODE,$/;"	e	enum:__anon21
+FW_CMD_ENTER_UPDATEMODE	include/hal_msg.h	/^    FW_CMD_ENTER_UPDATEMODE,$/;"	e	enum:__anon21
+FW_CMD_GET_BOOTINFO	include/hal_msg.h	/^    FW_CMD_GET_BOOTINFO,$/;"	e	enum:__anon21
+FW_CMD_RESET	include/hal_msg.h	/^    FW_CMD_RESET = 0,$/;"	e	enum:__anon21
+FW_CMD_UPDATE_PAGE	include/hal_msg.h	/^    FW_CMD_UPDATE_PAGE,$/;"	e	enum:__anon21
+FW_CMD_UPDATE_SECT	include/hal_msg.h	/^    FW_CMD_UPDATE_SECT,$/;"	e	enum:__anon21
+FW_DATA_PAYLOAD_MAX	include/hal.h	59;"	d
+FW_ENTER_UPDATE_MODE	include/hal.h	/^    FW_ENTER_UPDATE_MODE = 1,$/;"	e	enum:__anon4
+FW_ERR_ADDRESS_OUT_OF_RANGE	include/hal_msg.h	/^    FW_ERR_ADDRESS_OUT_OF_RANGE,$/;"	e	enum:__anon23
+FW_ERR_AUTHENTICATION_FAIL	include/hal_msg.h	/^    FW_ERR_AUTHENTICATION_FAIL,$/;"	e	enum:__anon23
+FW_ERR_COMMAND_INVALID	include/hal_msg.h	/^    FW_ERR_COMMAND_INVALID,$/;"	e	enum:__anon23
+FW_ERR_FLASH_OPERATION_FAIL	include/hal_msg.h	/^    FW_ERR_FLASH_OPERATION_FAIL,$/;"	e	enum:__anon23
+FW_ERR_FRAME_CHECKSUM_FAIL	include/hal_msg.h	/^    FW_ERR_FRAME_CHECKSUM_FAIL,$/;"	e	enum:__anon23
+FW_ERR_FRAME_HIF_ERROR	include/hal_msg.h	/^    FW_ERR_FRAME_HIF_ERROR,$/;"	e	enum:__anon23
+FW_ERR_FRAME_INVALID_LENGTH	include/hal_msg.h	/^    FW_ERR_FRAME_INVALID_LENGTH,$/;"	e	enum:__anon23
+FW_ERR_IMAGE_VERIFICATION_FAIL	include/hal_msg.h	/^    FW_ERR_IMAGE_VERIFICATION_FAIL,$/;"	e	enum:__anon23
+FW_ERR_INTERRUPTED_BY_RESET	include/hal_msg.h	/^    FW_ERR_INTERRUPTED_BY_RESET$/;"	e	enum:__anon23
+FW_ERR_MESSAGE_INVALID	include/hal_msg.h	/^    FW_ERR_MESSAGE_INVALID,$/;"	e	enum:__anon23
+FW_ERR_NOERROR	include/hal_msg.h	/^    FW_ERR_NOERROR = 0,$/;"	e	enum:__anon23
+FW_ERR_PAGE_DATA_OVERFLOW	include/hal_msg.h	/^    FW_ERR_PAGE_DATA_OVERFLOW,$/;"	e	enum:__anon23
+FW_ERR_PARAMETER_INVALID	include/hal_msg.h	/^    FW_ERR_PARAMETER_INVALID,$/;"	e	enum:__anon23
+FW_ERR_SECT_DATA_OVERFLOW	include/hal_msg.h	/^    FW_ERR_SECT_DATA_OVERFLOW,$/;"	e	enum:__anon23
+FW_HDR_SIZE	include/hal_msg.h	99;"	d
+FW_MSG_CMD	include/hal_msg.h	/^    FW_MSG_CMD = 0,$/;"	e	enum:__anon20
+FW_MSG_DATA	include/hal_msg.h	/^    FW_MSG_DATA$/;"	e	enum:__anon20
+FW_MSG_RSP	include/hal_msg.h	/^    FW_MSG_RSP,$/;"	e	enum:__anon20
+FW_PAYLOAD	include/hal_msg.h	106;"	d
+FW_RET_ADDRESS_OUT_OF_RANGE	include/hal_msg.h	/^    FW_RET_ADDRESS_OUT_OF_RANGE,$/;"	e	enum:__anon22
+FW_RET_AUTHENTICATION_FAIL	include/hal_msg.h	/^    FW_RET_AUTHENTICATION_FAIL,$/;"	e	enum:__anon22
+FW_RET_COMMAND_INVALID	include/hal_msg.h	/^    FW_RET_COMMAND_INVALID,$/;"	e	enum:__anon22
+FW_RET_FLASH_OPERATION_FAIL	include/hal_msg.h	/^    FW_RET_FLASH_OPERATION_FAIL,$/;"	e	enum:__anon22
+FW_RET_MESSAGE_TYPE_INVALID	include/hal_msg.h	/^    FW_RET_MESSAGE_TYPE_INVALID,$/;"	e	enum:__anon22
+FW_RET_PAGE_DATA_OVERFLOW	include/hal_msg.h	/^    FW_RET_PAGE_DATA_OVERFLOW,$/;"	e	enum:__anon22
+FW_RET_PARAMETER_INVALID	include/hal_msg.h	/^    FW_RET_PARAMETER_INVALID$/;"	e	enum:__anon22
+FW_RET_SECT_DATA_OVERFLOW	include/hal_msg.h	/^    FW_RET_SECT_DATA_OVERFLOW,$/;"	e	enum:__anon22
+FW_RET_SUCCESS	include/hal_msg.h	/^    FW_RET_SUCCESS = 0,$/;"	e	enum:__anon22
+FW_UPDATE_BY_DIFFER_VER	include/hal.h	269;"	d
+FW_UPDATE_BY_FORCE_VER	include/hal.h	271;"	d
+FW_UPDATE_BY_UPPER_VER	include/hal.h	270;"	d
+FW_UPDATE_STATUS_COMPLETED	include/hal.h	266;"	d
+FW_UPDATE_STATUS_ERROR	include/hal.h	267;"	d
+FW_UPDATE_STATUS_NONE	include/hal.h	264;"	d
+FW_UPDATE_STATUS_START	include/hal.h	265;"	d
+FW_W4_COMPLETE_RSP	include/hal.h	/^    FW_W4_COMPLETE_RSP,$/;"	e	enum:__anon4
+FW_W4_ENTER_UPDATEMODE_RSP	include/hal.h	/^    FW_W4_ENTER_UPDATEMODE_RSP,$/;"	e	enum:__anon4
+FW_W4_FW_DATA_RSP	include/hal.h	/^    FW_W4_FW_DATA_RSP,$/;"	e	enum:__anon4
+FW_W4_FW_RSP	include/hal.h	/^    FW_W4_FW_RSP = 0x10,$/;"	e	enum:__anon4
+FW_W4_HASH_DATA_RSP	include/hal.h	/^    FW_W4_HASH_DATA_RSP,$/;"	e	enum:__anon4
+FW_W4_NCI_INIT_RSP	include/hal.h	/^    FW_W4_NCI_INIT_RSP,$/;"	e	enum:__anon4
+FW_W4_NCI_PROP_FW_CFG	include/hal.h	/^    FW_W4_NCI_PROP_FW_CFG,$/;"	e	enum:__anon4
+FW_W4_NCI_RESET_RSP	include/hal.h	/^    FW_W4_NCI_RESET_RSP,$/;"	e	enum:__anon4
+FW_W4_NCI_RSP	include/hal.h	/^    FW_W4_NCI_RSP = 0x20,$/;"	e	enum:__anon4
+FW_W4_SIGN_DATA_RSP	include/hal.h	/^    FW_W4_SIGN_DATA_RSP,$/;"	e	enum:__anon4
+FW_W4_UPDATE_SECT_RSP	include/hal.h	/^    FW_W4_UPDATE_SECT_RSP,$/;"	e	enum:__anon4
+HAL_EVT_COMPLETE	include/hal_msg.h	176;"	d
+HAL_EVT_COMPLETE_FAILED	include/hal_msg.h	177;"	d
+HAL_EVT_CONTROL_GRANTED	include/hal_msg.h	174;"	d
+HAL_EVT_CORE_INIT	include/hal_msg.h	170;"	d
+HAL_EVT_OPEN	include/hal_msg.h	169;"	d
+HAL_EVT_PRE_DISCOVER	include/hal_msg.h	171;"	d
+HAL_EVT_READ	include/hal_msg.h	173;"	d
+HAL_EVT_SIZE	include/hal_msg.h	27;"	d
+HAL_EVT_TERMINATE	include/hal_msg.h	175;"	d
+HAL_EVT_WRITE	include/hal_msg.h	172;"	d
+HAL_FLAG_ALREADY_INIT	include/hal.h	256;"	d
+HAL_FLAG_ALREADY_RESET	include/hal.h	255;"	d
+HAL_FLAG_CLK_SET	include/hal.h	251;"	d
+HAL_FLAG_FORCE_FW_UPDATE	include/hal.h	259;"	d
+HAL_FLAG_MASK_ALREADY	include/hal.h	254;"	d
+HAL_FLAG_MASK_SYSTEM	include/hal.h	258;"	d
+HAL_FLAG_MASK_USING_TIMER	include/hal.h	246;"	d
+HAL_FLAG_NTF_TRNS_ERROR	include/hal.h	260;"	d
+HAL_FLAG_PROP_ONE_TIMER	include/hal.h	252;"	d
+HAL_FLAG_PROP_RESET	include/hal.h	250;"	d
+HAL_FLAG_RETRY_TRNS	include/hal.h	261;"	d
+HAL_FLAG_W4_CORE_INIT_RSP	include/hal.h	248;"	d
+HAL_FLAG_W4_CORE_RESET_RSP	include/hal.h	247;"	d
+HAL_GRANT_FINISH	include/hal.h	242;"	d
+HAL_GRANT_SEND_NEXT	include/hal.h	240;"	d
+HAL_GRANT_WAIT_READ	include/hal.h	241;"	d
+HAL_MODULE_INFO_SYM	nfc_nci.c	/^struct nfc_nci_module_t HAL_MODULE_INFO_SYM =$/;"	v	typeref:struct:nfc_nci_module_t
+HAL_NFC_STATUS_ERR_TRANSPORT	include/hal_msg.h	89;"	d
+HAL_STATE_DEINIT	include/hal.h	/^    HAL_STATE_DEINIT,$/;"	e	enum:__anon3
+HAL_STATE_FW	include/hal.h	/^    HAL_STATE_FW,$/;"	e	enum:__anon3
+HAL_STATE_GRANTED	include/hal.h	/^    HAL_STATE_GRANTED,$/;"	e	enum:__anon3
+HAL_STATE_INIT	include/hal.h	/^    HAL_STATE_INIT,$/;"	e	enum:__anon3
+HAL_STATE_OPEN	include/hal.h	/^    HAL_STATE_OPEN,$/;"	e	enum:__anon3
+HAL_STATE_POSTINIT	include/hal.h	/^    HAL_STATE_POSTINIT,$/;"	e	enum:__anon3
+HAL_STATE_SERVICE	include/hal.h	/^    HAL_STATE_SERVICE,$/;"	e	enum:__anon3
+HAL_STATE_VS	include/hal.h	/^    HAL_STATE_VS,$/;"	e	enum:__anon3
+HAL_UTIL_GET_INT_16	include/util.h	29;"	d
+IMAGE_CODE_SIZE	src/hal_selectImage_TN.c	56;"	d	file:
+IMAGE_OPTION_OLD_HW	src/hal_selectImage_TN.c	59;"	d	file:
+IMAGE_OPTION_UFU	src/hal_selectImage_TN.c	58;"	d	file:
+IMAGE_TYPE_FW	include/hal.h	411;"	d
+IMAGE_TYPE_RF_REG	include/hal.h	412;"	d
+IS_A_LISTEN	include/util_tracer.h	529;"	d
+IS_A_POLL	include/util_tracer.h	494;"	d
+IS_B_LISTEN	include/util_tracer.h	530;"	d
+IS_B_POLL	include/util_tracer.h	509;"	d
+IS_F_LISTEN	include/util_tracer.h	532;"	d
+IS_F_POLL	include/util_tracer.h	517;"	d
+LOG_TAG	nfc_nci.c	20;"	d	file:
+MAGIC_NUMBER	src/hal_rfreg.c	/^char MAGIC_NUMBER[] = { 0x53, 0x52, 0x6F, 0x62 };$/;"	v
+MAX_BUFFER_SIZE	src/persistent_log.c	33;"	d	file:
+MPOS_CODE	src/hal_selectImage_TN.c	38;"	d	file:
+MSG_EVENT_SIZE	include/hal_msg.h	159;"	d
+NCI_CLOCK_STATUS_FULL	include/hal_msg.h	95;"	d
+NCI_CLOCK_STATUS_MISMATCHED	include/hal_msg.h	94;"	d
+NCI_CLOCK_STATUS_SYNTAX_ERROR	include/hal_msg.h	93;"	d
+NCI_CORE_INIT	include/hal_msg.h	64;"	d
+NCI_CORE_RESET	include/hal_msg.h	63;"	d
+NCI_CTRL_SIZE	include/hal_msg.h	30;"	d
+NCI_GID	include/hal_msg.h	41;"	d
+NCI_GID_CORE	include/hal_msg.h	58;"	d
+NCI_GID_EE_MANAGE	include/hal_msg.h	60;"	d
+NCI_GID_PROP	include/hal_msg.h	61;"	d
+NCI_GID_RF_MANAGE	include/hal_msg.h	59;"	d
+NCI_HDR_SIZE	include/hal_msg.h	28;"	d
+NCI_LEN	include/hal_msg.h	43;"	d
+NCI_MAX_PAYLOAD	include/hal_msg.h	29;"	d
+NCI_MF_INFO	include/hal_msg.h	47;"	d
+NCI_MF_INFO_SIZE	include/hal_msg.h	46;"	d
+NCI_MT	include/hal_msg.h	39;"	d
+NCI_MT_CMD	include/hal_msg.h	51;"	d
+NCI_MT_DATA	include/hal_msg.h	50;"	d
+NCI_MT_NTF	include/hal_msg.h	53;"	d
+NCI_MT_RSP	include/hal_msg.h	52;"	d
+NCI_OID	include/hal_msg.h	42;"	d
+NCI_PAYLOAD	include/hal_msg.h	44;"	d
+NCI_PBF	include/hal_msg.h	40;"	d
+NCI_PBF_CONTINUE	include/hal_msg.h	56;"	d
+NCI_PBF_LAST	include/hal_msg.h	55;"	d
+NCI_PKT_LEN	include/hal_msg.h	48;"	d
+NCI_PROP_AGAIN	include/hal_msg.h	66;"	d
+NCI_PROP_FW_CFG	include/hal_msg.h	73;"	d
+NCI_PROP_GET_OPTION_META_OID	include/hal_msg.h	74;"	d
+NCI_PROP_GET_RFREG	include/hal_msg.h	67;"	d
+NCI_PROP_GET_RFREG_VER	include/hal_msg.h	69;"	d
+NCI_PROP_SET_RFREG	include/hal_msg.h	68;"	d
+NCI_PROP_SET_RFREG_VER	include/hal_msg.h	70;"	d
+NCI_PROP_SET_SLEEP_TIME	include/hal_msg.h	79;"	d
+NCI_PROP_START_RFREG	include/hal_msg.h	71;"	d
+NCI_PROP_STOP_RFREG	include/hal_msg.h	72;"	d
+NCI_PROP_WR_RESET	include/hal_msg.h	77;"	d
+NCI_STATUS	include/hal_msg.h	45;"	d
+NCI_STATUS_E_SYNTAX	include/hal_msg.h	86;"	d
+NCI_STATUS_OK	include/hal_msg.h	85;"	d
+NFCEE_DISCOVER	include/util_tracer.h	/^    NFCEE_DISCOVER,$/;"	e	enum:TRC_OID_NFCEE
+NFCEE_MODE_SET	include/util_tracer.h	/^    NFCEE_MODE_SET,$/;"	e	enum:TRC_OID_NFCEE
+NFC_DEV_MODE_BOOTLOADER	include/hal.h	/^    NFC_DEV_MODE_BOOTLOADER,$/;"	e	enum:__anon2
+NFC_DEV_MODE_OFF	include/hal.h	/^    NFC_DEV_MODE_OFF = 0,$/;"	e	enum:__anon2
+NFC_DEV_MODE_ON	include/hal.h	/^    NFC_DEV_MODE_ON,$/;"	e	enum:__anon2
+NFC_HAL_BL_VER_KEYINFO	include/hal.h	114;"	d
+NPT_GPIO_OFF	include/hal.h	/^    NPT_GPIO_OFF = 0,$/;"	e	enum:__anon12
+NPT_GPIO_ON	include/hal.h	/^    NPT_GPIO_ON,$/;"	e	enum:__anon12
+NPT_MODE_CLOSE	include/hal.h	/^    NPT_MODE_CLOSE$/;"	e	enum:__anon12
+NPT_MODE_OPEN	include/hal.h	/^    NPT_MODE_OPEN = 0x7E,$/;"	e	enum:__anon12
+OID_CORE_MAX	include/util_tracer.h	/^    OID_CORE_MAX,$/;"	e	enum:TRC_OID_CORE
+OID_NFCEE_MAX	include/util_tracer.h	/^    OID_NFCEE_MAX,$/;"	e	enum:TRC_OID_NFCEE
+OID_PROP_MAX	include/util_tracer.h	/^    OID_PROP_MAX,$/;"	e	enum:TRC_OID_PROP
+OID_RF_MAX	include/util_tracer.h	/^    OID_RF_MAX,$/;"	e	enum:TRC_OID_RF
+OSI_ALLOCATED	osi/osi_common.h	50;"	d
+OSI_COMMON_H	osi/osi_common.h	21;"	d
+OSI_DEBUG	osi/osi.h	369;"	d
+OSI_FAIL	osi/osi_common.h	47;"	d
+OSI_FREE	osi/osi_common.h	49;"	d
+OSI_H	osi/osi.h	21;"	d
+OSI_MAX_MEM_POOL	osi/osi_common.h	37;"	d
+OSI_MAX_QUEUE	osi/osi_common.h	38;"	d
+OSI_MAX_TASK	osi/osi_common.h	36;"	d
+OSI_MAX_TIMER	osi/osi_common.h	39;"	d
+OSI_MEM_POOL_SIZE	osi/osi_common.h	42;"	d
+OSI_OK	osi/osi_common.h	48;"	d
+OSI_QUEUE_SIZE	osi/osi_common.h	43;"	d
+OSI_RUN	osi/osi_common.h	51;"	d
+OSI_STATE	osi/osi_common.h	/^typedef uint8_t OSI_STATE;$/;"	t
+OSI_STOP	osi/osi_common.h	52;"	d
+OSI_TIMER_THREAD_FLAG_DETACH	osi/osi_common.h	54;"	d
+OSI_deinit	osi/osi_main.c	/^void OSI_deinit()$/;"	f
+OSI_delay	osi/osi_main.c	/^void OSI_delay (uint32_t timeout)$/;"	f
+OSI_init	osi/osi_main.c	/^OSI_STATE OSI_init (void)$/;"	f
+OSI_logd	osi/osi.h	375;"	d
+OSI_logd	osi/osi.h	379;"	d
+OSI_loge	osi/osi.h	376;"	d
+OSI_loge	osi/osi.h	380;"	d
+OSI_logt	osi/osi.h	374;"	d
+OSI_logt	osi/osi.h	378;"	d
+OSI_mem_free	osi/osi_memory.c	/^void OSI_mem_free (tOSI_MEM_HANDLER target)$/;"	f
+OSI_mem_get	osi/osi_memory.c	/^tOSI_MEM_HANDLER OSI_mem_get (size_t size)$/;"	f
+OSI_queue_allocate	osi/osi_memory.c	/^tOSI_QUEUE_HANDLER OSI_queue_allocate (char *que_name)$/;"	f
+OSI_queue_free	osi/osi_memory.c	/^void OSI_queue_free (tOSI_QUEUE_HANDLER target)$/;"	f
+OSI_queue_get	osi/osi_memory.c	/^void *OSI_queue_get (tOSI_QUEUE_HANDLER queue)$/;"	f
+OSI_queue_get_handler	osi/osi_memory.c	/^tOSI_QUEUE_HANDLER OSI_queue_get_handler (char *name)$/;"	f
+OSI_queue_get_wait	osi/osi_memory.c	/^void *OSI_queue_get_wait (tOSI_QUEUE_HANDLER queue)$/;"	f
+OSI_queue_put	osi/osi_memory.c	/^int OSI_queue_put (tOSI_QUEUE_HANDLER queue, void *p_data)$/;"	f
+OSI_set_debug_level	osi/osi.h	371;"	d
+OSI_task_allocate	osi/osi_task.c	/^tOSI_TASK_HANDLER OSI_task_allocate (char *task_name, tOSI_TASK_ENTRY task_entry)$/;"	f
+OSI_task_free	osi/osi_task.c	/^OSI_STATE OSI_task_free (tOSI_TASK_HANDLER task_handler)$/;"	f
+OSI_task_get_handler	osi/osi_task.c	/^tOSI_TASK_HANDLER OSI_task_get_handler (char *name)$/;"	f
+OSI_task_isRun	osi/osi_task.c	/^OSI_STATE OSI_task_isRun(tOSI_TASK_HANDLER task_handler)$/;"	f
+OSI_task_kill	osi/osi_task.c	/^OSI_STATE OSI_task_kill (tOSI_TASK_HANDLER task_handler)$/;"	f
+OSI_task_run	osi/osi_task.c	/^OSI_STATE OSI_task_run (tOSI_TASK_HANDLER task_handler)$/;"	f
+OSI_task_stop	osi/osi_task.c	/^OSI_STATE OSI_task_stop (tOSI_TASK_HANDLER task_handler)$/;"	f
+OSI_timer_allocate	osi/osi_timer.c	/^tOSI_TIMER_HANDLER OSI_timer_allocate (char *timer_name)$/;"	f
+OSI_timer_free	osi/osi_timer.c	/^void OSI_timer_free (tOSI_TIMER_HANDLER timer)$/;"	f
+OSI_timer_get_current_time	osi/osi_timer.c	/^int32_t OSI_timer_get_current_time()$/;"	f
+OSI_timer_get_handler	osi/osi_timer.c	/^tOSI_TIMER_HANDLER OSI_timer_get_handler (char *name)$/;"	f
+OSI_timer_start	osi/osi_timer.c	/^int OSI_timer_start (tOSI_TIMER_HANDLER timer, uint32_t timeout,$/;"	f
+OSI_timer_stop	osi/osi_timer.c	/^void OSI_timer_stop (tOSI_TIMER_HANDLER timer)$/;"	f
+OSI_timer_update	osi/osi_timer.c	/^void OSI_timer_update(int32_t tick)$/;"	f
+PROP_CSC_SALES_CODE	include/hal.h	/^    PROP_CSC_SALES_CODE,$/;"	e	enum:__anon14
+PROP_FW_RFREG_MODE	include/hal.h	/^    PROP_FW_RFREG_MODE,$/;"	e	enum:__anon14
+PROP_OMC_SALES_CODE	include/hal.h	/^    PROP_OMC_SALES_CODE = 0,$/;"	e	enum:__anon14
+PROP_REVISION	include/hal.h	/^    PROP_REVISION$/;"	e	enum:__anon14
+RFONE_ALR_ADDRESS	src/hal_rfreg.c	82;"	d	file:
+RFONE_ALR_ADDRESS_LENGTH	src/hal_rfreg.c	66;"	d	file:
+RFONE_ALR_HEADER_SIZE	src/hal_rfreg.c	89;"	d	file:
+RFONE_ALR_LEN	src/hal_rfreg.c	83;"	d	file:
+RFONE_ALR_LEN_LENGTH	src/hal_rfreg.c	67;"	d	file:
+RFONE_ALR_REG	src/hal_rfreg.c	84;"	d	file:
+RFONE_BASE_REG_SIZE	src/hal_rfreg.c	75;"	d	file:
+RFONE_BASE_REG_SIZE_LENGTH	src/hal_rfreg.c	60;"	d	file:
+RFONE_BASE_REG_START	src/hal_rfreg.c	76;"	d	file:
+RFONE_COUNT	src/hal_rfreg.c	74;"	d	file:
+RFONE_COUNT_LENGTH	src/hal_rfreg.c	59;"	d	file:
+RFONE_DELTA_COUNT	src/hal_rfreg.c	79;"	d	file:
+RFONE_DELTA_COUNT_LENGTH	src/hal_rfreg.c	63;"	d	file:
+RFONE_DELTA_FINAL_SIZE	src/hal_rfreg.c	80;"	d	file:
+RFONE_DELTA_FINAL_SIZE_LENGTH	src/hal_rfreg.c	64;"	d	file:
+RFONE_DELTA_HEADER_SIZE	src/hal_rfreg.c	88;"	d	file:
+RFONE_DELTA_ID	src/hal_rfreg.c	78;"	d	file:
+RFONE_DELTA_ID_LENGTH	src/hal_rfreg.c	62;"	d	file:
+RFONE_FILE_HEADER_SIZE	src/hal_rfreg.c	87;"	d	file:
+RFONE_FILE_SIZE	src/hal_rfreg.c	71;"	d	file:
+RFONE_FILE_SIZE_LENGTH	src/hal_rfreg.c	56;"	d	file:
+RFONE_MAGIC_NUMBER	src/hal_rfreg.c	70;"	d	file:
+RFONE_MAGIC_NUMBER_LENGTH	src/hal_rfreg.c	55;"	d	file:
+RFONE_OPTION	src/hal_rfreg.c	73;"	d	file:
+RFONE_OPTION_LENGTH	src/hal_rfreg.c	58;"	d	file:
+RFONE_VERSION	src/hal_rfreg.c	72;"	d	file:
+RFONE_VERSION_LENGTH	src/hal_rfreg.c	57;"	d	file:
+RFREG_META_BRANCH_NO	src/hal_rfreg.c	49;"	d	file:
+RFREG_META_BRANCH_NO_LENGTH	src/hal_rfreg.c	38;"	d	file:
+RFREG_META_BUILDTIME	src/hal_rfreg.c	48;"	d	file:
+RFREG_META_BUILD_TIME_LENGTH	src/hal_rfreg.c	37;"	d	file:
+RFREG_META_DATA_LENGTH	src/hal_rfreg.c	42;"	d	file:
+RFREG_META_FW_VERSION	src/hal_rfreg.c	45;"	d	file:
+RFREG_META_FW_VERSION_LENGTH	src/hal_rfreg.c	34;"	d	file:
+RFREG_META_MINOR_VERSION	src/hal_rfreg.c	50;"	d	file:
+RFREG_META_MINOR_VERSION_LENGTH	src/hal_rfreg.c	39;"	d	file:
+RFREG_META_PROJECT_NO	src/hal_rfreg.c	46;"	d	file:
+RFREG_META_PROJECT_NO_LENGTH	src/hal_rfreg.c	35;"	d	file:
+RFREG_META_RFU	src/hal_rfreg.c	52;"	d	file:
+RFREG_META_RFU_LENGTH	src/hal_rfreg.c	41;"	d	file:
+RFREG_META_RF_VERSION	src/hal_rfreg.c	47;"	d	file:
+RFREG_META_RF_VERSION_LENGTH	src/hal_rfreg.c	36;"	d	file:
+RFREG_META_TARGET_INFOR	src/hal_rfreg.c	51;"	d	file:
+RFREG_META_TARGET_INFOR_LENGTH	src/hal_rfreg.c	40;"	d	file:
+RFREG_SECTION_SIZE	src/hal_vs.c	195;"	d	file:
+RFREG_VERSION_SIZE	include/hal.h	133;"	d
+RF_DEACTIVATED	include/util_tracer.h	/^    RF_DEACTIVATED,$/;"	e	enum:TRC_OID_RF
+RF_DISCOVER	include/util_tracer.h	/^    RF_DISCOVER,$/;"	e	enum:TRC_OID_RF
+RF_DISCOVER_MAP	include/util_tracer.h	/^    RF_DISCOVER_MAP,$/;"	e	enum:TRC_OID_RF
+RF_DISCOVER_SELECT	include/util_tracer.h	/^    RF_DISCOVER_SELECT,$/;"	e	enum:TRC_OID_RF
+RF_FIELD_INFO	include/util_tracer.h	/^    RF_FIELD_INFO,$/;"	e	enum:TRC_OID_RF
+RF_GET_LISTEN_MODE_ROUTING	include/util_tracer.h	/^    RF_GET_LISTEN_MODE_ROUTING,$/;"	e	enum:TRC_OID_RF
+RF_INTF_ACTIVATED	include/util_tracer.h	/^    RF_INTF_ACTIVATED,$/;"	e	enum:TRC_OID_RF
+RF_NFCEE_ACTION	include/util_tracer.h	/^    RF_NFCEE_ACTION,$/;"	e	enum:TRC_OID_RF
+RF_NFCEE_DISCOVERY_REQ	include/util_tracer.h	/^    RF_NFCEE_DISCOVERY_REQ,$/;"	e	enum:TRC_OID_RF
+RF_PARAMETER_UPDATE	include/util_tracer.h	/^    RF_PARAMETER_UPDATE,$/;"	e	enum:TRC_OID_RF
+RF_SET_LISTEN_MODE_ROUTING	include/util_tracer.h	/^    RF_SET_LISTEN_MODE_ROUTING,$/;"	e	enum:TRC_OID_RF
+RF_T3T_POLLING	include/util_tracer.h	/^    RF_T3T_POLLING,$/;"	e	enum:TRC_OID_RF
+SEC_NFC_DEBUG	include/sec_nfc.h	29;"	d
+SEC_NFC_DRIVER_NAME	include/sec_nfc.h	20;"	d
+SEC_NFC_GET_MODE	include/sec_nfc.h	24;"	d
+SEC_NFC_MAGIC	include/sec_nfc.h	23;"	d
+SEC_NFC_SET_MODE	include/sec_nfc.h	25;"	d
+SEC_NFC_SET_WPT_MODE	include/sec_nfc.h	28;"	d
+SEC_NFC_SLEEP	include/sec_nfc.h	26;"	d
+SEC_NFC_WAKEUP	include/sec_nfc.h	27;"	d
+SET_SLEEP_TIME_CFG	include/hal_msg.h	81;"	d
+SET_SLEEP_TIME_FORCE	include/hal_msg.h	83;"	d
+SET_SLEEP_TIME_ONCE	include/hal_msg.h	82;"	d
+SNFC_CHECKING	include/product.h	/^    SNFC_CHECKING = 0,$/;"	e	enum:__anon17
+SNFC_N3	include/product.h	/^    SNFC_N3 = 0x30,$/;"	e	enum:__anon17
+SNFC_N5	include/product.h	/^    SNFC_N5 = 0x50,$/;"	e	enum:__anon17
+SNFC_N5P	include/product.h	/^    SNFC_N5P = 0x60,$/;"	e	enum:__anon17
+SNFC_N5P_5_0_x_3	include/product.h	/^    SNFC_N5P_5_0_x_3,$/;"	e	enum:__anon17
+SNFC_N5P_5_0_x_5	include/product.h	/^    SNFC_N5P_5_0_x_5,$/;"	e	enum:__anon17
+SNFC_N5P_5_0_x_6	include/product.h	/^    SNFC_N5P_5_0_x_6,    \/\/ N5ABP$/;"	e	enum:__anon17
+SNFC_N5P_5_0_x_7	include/product.h	/^    SNFC_N5P_5_0_x_7,$/;"	e	enum:__anon17
+SNFC_N5_5_0_0_0	include/product.h	/^    SNFC_N5_5_0_0_0,$/;"	e	enum:__anon17
+SNFC_N5_5_0_0_1	include/product.h	/^    SNFC_N5_5_0_0_1,$/;"	e	enum:__anon17
+SNFC_N5_5_0_x_2	include/product.h	/^    SNFC_N5_5_0_x_2,$/;"	e	enum:__anon17
+SNFC_N7	include/product.h	/^    SNFC_N7 = 0x70,$/;"	e	enum:__anon17
+SNFC_N7_7_0_0_x	include/product.h	/^    SNFC_N7_7_0_0_x,$/;"	e	enum:__anon17
+SNFC_N8	include/product.h	/^    SNFC_N8 = 0x80,$/;"	e	enum:__anon17
+SNFC_N81	include/product.h	/^    SNFC_N81,$/;"	e	enum:__anon17
+SNFC_N82	include/product.h	/^    SNFC_N82,$/;"	e	enum:__anon17
+SNFC_UNKNOWN	include/product.h	/^    SNFC_UNKNOWN = 0x10,$/;"	e	enum:__anon17
+STORAGE_MAX	src/hal_selectImage_TN.c	80;"	d	file:
+TECH_A_POLL	include/util_tracer.h	495;"	d
+TECH_B_POLL	include/util_tracer.h	510;"	d
+TECH_F_LISTEN	include/util_tracer.h	533;"	d
+TECH_F_POLL	include/util_tracer.h	518;"	d
+TO_LITTLE_ARRY	include/hal.h	338;"	d
+TRACE_BUFFER_SIZE	src/device.c	499;"	d	file:
+TRC_GID_MASK	include/util_tracer.h	34;"	d
+TRC_GID_NCICORE	include/util_tracer.h	35;"	d
+TRC_GID_NFCEE	include/util_tracer.h	37;"	d
+TRC_GID_PROP	include/util_tracer.h	38;"	d
+TRC_GID_RF	include/util_tracer.h	36;"	d
+TRC_GID_SHIFT	include/util_tracer.h	33;"	d
+TRC_MT_CMD	include/util_tracer.h	24;"	d
+TRC_MT_DATA	include/util_tracer.h	23;"	d
+TRC_MT_MASK	include/util_tracer.h	22;"	d
+TRC_MT_NTF	include/util_tracer.h	26;"	d
+TRC_MT_RSP	include/util_tracer.h	25;"	d
+TRC_MT_SHIFT	include/util_tracer.h	21;"	d
+TRC_OID_CORE	include/util_tracer.h	/^enum TRC_OID_CORE {$/;"	g
+TRC_OID_NFCEE	include/util_tracer.h	/^enum TRC_OID_NFCEE {$/;"	g
+TRC_OID_PROP	include/util_tracer.h	/^enum TRC_OID_PROP {$/;"	g
+TRC_OID_RF	include/util_tracer.h	/^enum TRC_OID_RF {$/;"	g
+TRC_PBF_COMPLETE	include/util_tracer.h	30;"	d
+TRC_PBF_MASK	include/util_tracer.h	29;"	d
+TRC_PBF_SEGMENT	include/util_tracer.h	31;"	d
+TRC_PBF_SHIFT	include/util_tracer.h	28;"	d
+VERSION_LEN_FW	src/hal_selectImage_TN.c	71;"	d	file:
+VERSION_LEN_RF	src/hal_selectImage_TN.c	72;"	d	file:
+VERSION_MAX	src/hal_selectImage_TN.c	74;"	d	file:
+VS_INIT	include/hal.h	/^    VS_INIT,$/;"	e	enum:__anon5
+VS_W4_CFG_RFREG_RSP	include/hal.h	/^    VS_W4_CFG_RFREG_RSP,$/;"	e	enum:__anon5
+VS_W4_COMPLETE	include/hal.h	/^    VS_W4_COMPLETE,$/;"	e	enum:__anon5
+VS_W4_FILE_RFREG_RSP	include/hal.h	/^    VS_W4_FILE_RFREG_RSP,$/;"	e	enum:__anon5
+VS_W4_GET_RFREG_VER_RSP	include/hal.h	/^    VS_W4_GET_RFREG_VER_RSP,$/;"	e	enum:__anon5
+VS_W4_PROP_RSP	include/hal.h	/^    VS_W4_PROP_RSP,$/;"	e	enum:__anon5
+VS_W4_SET_RFREG_VER_RSP	include/hal.h	/^    VS_W4_SET_RFREG_VER_RSP,$/;"	e	enum:__anon5
+VS_W4_START_RFREG_RSP	include/hal.h	/^    VS_W4_START_RFREG_RSP,$/;"	e	enum:__anon5
+VS_W4_STOP_RFREG_RSP	include/hal.h	/^    VS_W4_STOP_RFREG_RSP,$/;"	e	enum:__anon5
+__NFC_SEC_HALMSG__	include/hal_msg.h	22;"	d
+__NFC_SEC_HALUTIL__	include/util.h	20;"	d
+__NFC_SEC_HAL__	include/hal.h	20;"	d
+__NFC_SEC_PRODUCT__	include/product.h	22;"	d
+__bool_true_false_are_defined	include/hal.h	29;"	d
+__bool_true_false_are_defined	include/util.h	25;"	d
+__get_config_int	src/util.c	/^bool __get_config_int(char *file_path, char *field, int *data, int option)$/;"	f
+__osi_log	osi/osi.h	373;"	d
+__send_to_bootloader	src/hal_fw.c	/^size_t __send_to_bootloader(eNFC_FW_BLTYPE type, uint8_t code,$/;"	f
+__send_to_device	src/hal_task.c	/^int __send_to_device(uint8_t* data, size_t len)$/;"	f
+_get_str	include/util_tracer.h	/^char* _get_str(char *table[], uint8_t max, uint8_t value)$/;"	f
+_n3_bl_ver_list	include/product.h	/^static uint8_t _n3_bl_ver_list[][6] = {$/;"	v
+_n5_bl_ver_list	include/product.h	/^static uint8_t _n5_bl_ver_list[][6] = {$/;"	v
+_n7_bl_ver_list	include/product.h	/^static uint8_t _n7_bl_ver_list[][6] = {$/;"	v
+_n8_bl_ver_list	include/product.h	/^static uint8_t _n8_bl_ver_list[][6] = {$/;"	v
+_product_info	include/product.h	/^} _product_info[] = {$/;"	v	typeref:struct:_sproduct_info
+_sproduct_info	include/product.h	/^static struct _sproduct_info {$/;"	s
+alr_start_addr	src/hal_rfreg.c	/^    int         alr_start_addr;$/;"	m	struct:__anon31	file:
+base_address	include/hal.h	/^    uint16_t            base_address;$/;"	m	struct:__anon8
+binary	include/hal.h	/^    unsigned char       *binary;$/;"	m	struct:__anon10
+binary	include/hal.h	/^    unsigned char       *binary;$/;"	m	struct:__anon7
+binary	src/hal_selectImage_TN.c	/^    uint8_t *binary;$/;"	m	struct:__anon26	file:
+binary_length	src/hal_selectImage_TN.c	/^    unsigned int binary_length;$/;"	m	struct:__anon26	file:
+bl_info	include/hal.h	/^    tNFC_HAL_FW_BL_INFO     bl_info;$/;"	m	struct:__anon9
+bool	include/hal.h	/^typedef enum {false, true} bool;$/;"	t	typeref:enum:__anon1
+bool	include/util.h	/^typedef enum {false, true} bool;$/;"	t	typeref:enum:__anon16
+buffer	osi/osi_common.h	/^    uint8_t         buffer[OSI_MEM_POOL_SIZE];$/;"	m	struct:__anon33
+buffer_index	src/persistent_log.c	/^int buffer_index = 0;$/;"	v
+build1	include/hal.h	/^    uint8_t     build1;$/;"	m	struct:__anon6
+build2	include/hal.h	/^    uint8_t     build2;$/;"	m	struct:__anon6
+callback	osi/osi_common.h	/^    tOSI_TIMER_CALLBACK     callback;$/;"	m	struct:__anon35
+callback_param	osi/osi_common.h	/^    void                    *callback_param;$/;"	m	struct:__anon35
+cfg	include/hal.h	/^    tNFC_HAL_CONFIG             cfg;$/;"	m	struct:__anon15
+cfg_name_table	include/hal.h	/^static char *cfg_name_table[] = {$/;"	v
+check_file_size	src/hal_rfreg.c	/^static bool check_file_size(uint8_t *binary, int size)$/;"	f	file:
+check_force_fw_update_mode	src/hal_task.c	/^int check_force_fw_update_mode()$/;"	f
+check_magic_number	src/hal_rfreg.c	/^static bool check_magic_number(uint8_t *binary)$/;"	f	file:
+check_old_hw_exception	src/hal_selectImage_TN.c	/^static bool check_old_hw_exception(int type)$/;"	f	file:
+check_one_binary	src/hal_rfreg.c	/^static bool check_one_binary(uint8_t *binary, int file_size)$/;"	f	file:
+check_sum	include/hal.h	/^    uint32_t            check_sum;$/;"	m	struct:__anon10
+check_update	src/hal_selectImage_TN.c	/^static bool check_update(tUPDATE_INFO *info)$/;"	f	file:
+chip_code	src/hal_selectImage_TN.c	/^    char* chip_code;$/;"	m	struct:__anon28	file:
+chip_code	src/hal_selectImage_TN.c	/^static char chip_code[IMAGE_CODE_SIZE + 1];$/;"	v	file:
+chip_fw_version	src/hal_selectImage_TN.c	/^static tVERSION chip_fw_version;$/;"	v	file:
+chip_name	include/product.h	/^    char *chip_name;$/;"	m	struct:_sproduct_info
+chip_rf_version	src/hal_selectImage_TN.c	/^static tVERSION chip_rf_version;$/;"	v	file:
+code	include/hal_msg.h	/^    uint8_t     code;$/;"	m	struct:__anon19
+code	src/hal_selectImage_TN.c	/^    char *code;$/;"	m	struct:__anon26	file:
+cond	osi/osi_common.h	/^    pthread_cond_t  cond;$/;"	m	struct:__anon34
+cond_bit_rate	include/util_tracer.h	/^char *cond_bit_rate(uint8_t index)$/;"	f
+cond_core_reset_reason	include/util_tracer.h	/^char *cond_core_reset_reason(uint8_t index)$/;"	f
+cond_destination_types	include/util_tracer.h	/^char *cond_destination_types(uint8_t index)$/;"	f
+cond_nfcee_protocols	include/util_tracer.h	/^char *cond_nfcee_protocols(uint8_t index)$/;"	f
+cond_rf_protocols	include/util_tracer.h	/^char *cond_rf_protocols(uint8_t index)$/;"	f
+cond_rf_technologies	include/util_tracer.h	/^char *cond_rf_technologies(uint8_t index)$/;"	f
+cond_rf_technology_and_mode	include/util_tracer.h	/^char *cond_rf_technology_and_mode(uint8_t index)$/;"	f
+copy_stream_to_int	src/hal_rfreg.c	/^static inline int copy_stream_to_int(uint8_t *stream, int length)$/;"	f	file:
+count	src/hal_rfreg.c	/^    int         count;$/;"	m	struct:__anon31	file:
+cur	include/hal.h	/^    unsigned int        cur;$/;"	m	struct:__anon7
+data_cback	include/hal.h	/^    nfc_stack_data_callback_t   *data_cback;        \/* Callback for data event *\/$/;"	m	struct:__anon15
+data_trace	src/device.c	/^void data_trace(char *head, int len, uint8_t *p_data)$/;"	f
+decide_image	src/hal_selectImage_TN.c	/^static tIMAGE* decide_image(tUPDATE_INFO *info)$/;"	f	file:
+delta_count	src/hal_rfreg.c	/^        int         delta_count;$/;"	m	struct:__anon29::__anon30	file:
+delta_start_addr	src/hal_rfreg.c	/^        int         delta_start_addr;$/;"	m	struct:__anon29::__anon30	file:
+dev_state	src/device.c	/^eNFC_DEV_MODE dev_state;$/;"	v
+device_close	src/device.c	/^void device_close(void)$/;"	f
+device_deinit	src/device.c	/^void device_deinit()$/;"	f
+device_init	src/device.c	/^int device_init(int data_trace)$/;"	f
+device_npt_control	src/device.c	/^int device_npt_control(uint16_t npt_type)$/;"	f
+device_open	src/device.c	/^int device_open()$/;"	f
+device_read	src/device.c	/^int device_read(uint8_t *buffer, size_t len)$/;"	f
+device_set_mode	src/device.c	/^int device_set_mode(eNFC_DEV_MODE mode)$/;"	f
+device_sleep	src/device.c	/^int device_sleep(void)$/;"	f
+device_wakeup	src/device.c	/^int device_wakeup(void)$/;"	f
+device_write	src/device.c	/^int device_write(uint8_t *data, size_t len)$/;"	f
+eHAL_STATE	include/hal.h	/^} eHAL_STATE;$/;"	t	typeref:enum:__anon3
+eNFC_DEV_MODE	include/hal.h	/^} eNFC_DEV_MODE;$/;"	t	typeref:enum:__anon2
+eNFC_FW_BLCMD	include/hal_msg.h	/^} eNFC_FW_BLCMD;$/;"	t	typeref:enum:__anon21
+eNFC_FW_BLTYPE	include/hal_msg.h	/^} eNFC_FW_BLTYPE;$/;"	t	typeref:enum:__anon20
+eNFC_HAL_FW_STATE	include/hal.h	/^} eNFC_HAL_FW_STATE;$/;"	t	typeref:enum:__anon4
+eNFC_HAL_VS_STATE	include/hal.h	/^} eNFC_HAL_VS_STATE;$/;"	t	typeref:enum:__anon5
+eNFC_SNFC_PRODUCTS	include/product.h	/^} eNFC_SNFC_PRODUCTS;$/;"	t	typeref:enum:__anon17
+event	include/hal_msg.h	/^    uint8_t     event;$/;"	m	struct:__anon24
+event_to_string	src/hal_task.c	/^char *event_to_string(uint8_t event)$/;"	f
+exact_time	osi/osi_common.h	/^    int32_t                 exact_time;$/;"	m	struct:__anon35
+exception_version_index	src/hal_selectImage_TN.c	/^static bool exception_version_index(tIMAGE_TYPE type, int index)$/;"	f	file:
+false	include/hal.h	/^typedef enum {false, true} bool;$/;"	e	enum:__anon1
+false	include/util.h	/^typedef enum {false, true} bool;$/;"	e	enum:__anon16
+file	src/hal_rfreg.c	/^    FILE        *file;$/;"	m	struct:__anon29	file:
+file_options	src/hal_rfreg.c	/^        uint8_t     file_options[RFONE_OPTION_LENGTH];$/;"	m	struct:__anon29::__anon30	file:
+file_size	src/hal_rfreg.c	/^    int         file_size;$/;"	m	struct:__anon29	file:
+file_version	src/hal_rfreg.c	/^        uint8_t     file_version[RFONE_VERSION_LENGTH];$/;"	m	struct:__anon29::__anon30	file:
+fill_one_binary_base_register	src/hal_rfreg.c	/^static bool fill_one_binary_base_register(tNFC_RF_BINARY *binary, uint8_t *buffer, int buffer_size)$/;"	f	file:
+final_size	src/hal_rfreg.c	/^    int         final_size;$/;"	m	struct:__anon31	file:
+find_and_open_rf_reg	src/hal_rfreg.c	/^static FILE *find_and_open_rf_reg()$/;"	f	file:
+find_by_name	src/util.c	/^bool find_by_name(FILE *file, char *field)$/;"	f
+find_by_name_from_current	src/util.c	/^bool find_by_name_from_current(FILE *file, char *field)$/;"	f
+find_delta_record	src/hal_rfreg.c	/^static tNFC_RFONE_DELTA find_delta_record(tNFC_RF_BINARY *binary, uint8_t* id, int id_size)$/;"	f	file:
+first_wakeup	src/device.c	/^bool first_wakeup;$/;"	v
+flag	include/hal.h	/^    unsigned int                flag;$/;"	m	struct:__anon15
+frame_max_size	include/hal.h	/^    uint16_t            frame_max_size;$/;"	m	struct:__anon8
+free_image	src/hal_selectImage_TN.c	/^static void free_image(tIMAGE *image)$/;"	f	file:
+free_not_selected_image	src/hal_selectImage_TN.c	/^static void free_not_selected_image(tUPDATE_INFO *info)$/;"	f	file:
+fw_file	include/hal.h	/^    char        fw_file[64];$/;"	m	struct:__anon13
+fw_force_update	src/hal_fw.c	/^void fw_force_update(void *param)$/;"	f
+fw_info	include/hal.h	/^    tNFC_HAL_FW_INFO            fw_info;$/;"	m	struct:__anon15
+fw_packet	include/hal_msg.h	/^        tNFC_FW_PKT     fw_packet;$/;"	m	union:__anon24::__anon25
+fw_read_payload	src/hal_fw.c	/^int fw_read_payload(tNFC_HAL_MSG *msg)$/;"	f
+fw_update_state	src/hal_task.c	/^uint32_t fw_update_state = 0;$/;"	v
+fw_ver	include/hal.h	/^    tNFC_HAL_FW_VER_INFO    fw_ver;$/;"	m	struct:__anon9
+getLogTime	src/persistent_log.c	/^void getLogTime(char *currentTime) {$/;"	f
+get_base_reg	src/hal_rfreg.c	/^static bool get_base_reg(uint8_t *binary, uint8_t *buffer, uint8_t size)$/;"	f	file:
+get_base_reg_size	src/hal_rfreg.c	/^static int get_base_reg_size(uint8_t *binary)$/;"	f	file:
+get_binary_information	src/hal_rfreg.c	/^static tNFC_RF_BINARY get_binary_information(FILE *file)$/;"	f	file:
+get_chip_code	src/hal_selectImage_TN.c	/^static char* get_chip_code(void)$/;"	f	file:
+get_chip_version	src/hal_selectImage_TN.c	/^static tVERSION get_chip_version(tIMAGE_TYPE type)$/;"	f	file:
+get_clock_info	src/hal_nci.c	/^void get_clock_info(int rev, int field_name, int *buffer)$/;"	f
+get_config_byteArry	src/util.c	/^int get_config_byteArry(char *field, uint8_t *byteArry, size_t arrySize)$/;"	f
+get_config_count	src/util.c	/^int get_config_count(char *field)$/;"	f
+get_config_int	src/util.c	/^bool get_config_int(char *field, int *data)$/;"	f
+get_config_propnci_get_oid	src/util.c	/^uint8_t get_config_propnci_get_oid(int n)$/;"	f
+get_config_string	src/util.c	/^int get_config_string(char *field, char *strBuffer, size_t bufferSize)$/;"	f
+get_count	src/hal_rfreg.c	/^static int get_count(uint8_t *binary)$/;"	f	file:
+get_default_code	src/hal_selectImage_TN.c	/^static char* get_default_code(void)$/;"	f	file:
+get_file_size	src/hal_rfreg.c	/^static int get_file_size(uint8_t *binary)$/;"	f	file:
+get_high_ver_image	src/hal_selectImage_TN.c	/^static tIMAGE* get_high_ver_image(tIMAGE *image1, tIMAGE *image2)$/;"	f	file:
+get_hw_rev	src/util.c	/^int get_hw_rev()$/;"	f
+get_image	src/hal_selectImage_TN.c	/^static tIMAGE* get_image(tUPDATE_INFO *info, char *from, unsigned int option)$/;"	f	file:
+get_image_compat_field	src/hal_selectImage_TN.c	/^static char *get_image_compat_field(tIMAGE *image)$/;"	f	file:
+get_image_file	src/hal_selectImage_TN.c	/^static char *get_image_file(tIMAGE *image, char *from)$/;"	f	file:
+get_image_file_name	src/hal_selectImage_TN.c	/^static char *get_image_file_name(tIMAGE *image)$/;"	f	file:
+get_image_version	src/hal_selectImage_TN.c	/^static tVERSION get_image_version(tIMAGE *image)$/;"	f	file:
+get_is_last_field_overrode	src/util.c	/^bool get_is_last_field_overrode(void)$/;"	f
+get_mPOS_code	src/hal_selectImage_TN.c	/^static char* get_mPOS_code(void)$/;"	f	file:
+get_mPOS_mode	src/hal_selectImage_TN.c	/^static bool get_mPOS_mode(void)$/;"	f	file:
+get_meta_data	src/hal_rfreg.c	/^static uint8_t *get_meta_data(uint8_t *reg, int size)$/;"	f	file:
+get_mstr	include/util_tracer.h	/^char* get_mstr(struct mapped_string *mstr, uint8_t value)$/;"	f
+get_option	src/hal_rfreg.c	/^static bool get_option(uint8_t *binary, uint8_t *buffer)$/;"	f	file:
+get_product_name	include/product.h	/^static char *get_product_name(uint8_t product)$/;"	f
+get_product_support_fw	include/product.h	/^static uint8_t get_product_support_fw(uint8_t product)$/;"	f
+get_sales_code	src/hal_selectImage_TN.c	/^static char* get_sales_code(void)$/;"	f	file:
+get_storage	src/hal_selectImage_TN.c	/^static char* get_storage(int type, int option)$/;"	f	file:
+get_str	include/util_tracer.h	95;"	d
+get_version	src/hal_rfreg.c	/^static bool get_version(uint8_t *binary, uint8_t *buffer)$/;"	f	file:
+grant_cback	include/hal.h	/^    tNFC_HAL_GRANT_CALLBACK     *grant_cback;$/;"	m	struct:__anon15
+group	include/product.h	/^    eNFC_SNFC_PRODUCTS group;$/;"	m	struct:_sproduct_info
+hal_nci_send	src/hal_nci.c	/^int hal_nci_send(tNFC_NCI_PKT *pkt)$/;"	f
+hal_nci_send_clearLmrt	src/hal_nci.c	/^void hal_nci_send_clearLmrt(void)$/;"	f
+hal_nci_send_init	src/hal_nci.c	/^void hal_nci_send_init(void)$/;"	f
+hal_nci_send_prop_fw_cfg	src/hal_nci.c	/^void hal_nci_send_prop_fw_cfg(uint8_t product)$/;"	f
+hal_nci_send_reset	src/hal_nci.c	/^void hal_nci_send_reset(void)$/;"	f
+hal_sleep	src/hal_task.c	/^void hal_sleep(void *param)$/;"	f
+hal_update_sleep_timer	src/hal_task.c	/^void hal_update_sleep_timer(void)$/;"	f
+hal_vs_check_rfreg_update	src/hal_vs.c	/^bool hal_vs_check_rfreg_update(tNFC_HAL_VS_INFO *vs, tNFC_NCI_PKT *pkt)$/;"	f
+hal_vs_get_prop	src/hal_vs.c	/^int hal_vs_get_prop(int n, tNFC_NCI_PKT *pkt)$/;"	f
+hal_vs_get_rf_image	src/hal_vs.c	/^bool hal_vs_get_rf_image(tNFC_HAL_VS_INFO *vs)$/;"	f
+hal_vs_nci_send	src/hal_vs.c	/^int hal_vs_nci_send(uint8_t oid, uint8_t *data, size_t size)$/;"	f
+hal_vs_rfreg_update	src/hal_vs.c	/^bool hal_vs_rfreg_update(tNFC_HAL_VS_INFO *vs)$/;"	f
+hal_vs_send	src/hal_vs.c	/^int hal_vs_send(uint8_t *data, size_t size)$/;"	f
+hal_vs_set_rfreg_version	src/hal_vs.c	/^void hal_vs_set_rfreg_version(tNFC_HAL_VS_INFO *vs, tNFC_NCI_PKT *pkt)$/;"	f
+hashCode	include/hal.h	/^    unsigned char       *hashCode;$/;"	m	struct:__anon7
+hashCodeLen	include/hal.h	/^    unsigned long int   hashCodeLen;$/;"	m	struct:__anon7
+head	osi/osi_common.h	/^    int             head;$/;"	m	struct:__anon34
+hw_buffer_size	include/hal.h	/^    uint16_t            hw_buffer_size;$/;"	m	struct:__anon8
+id	src/hal_rfreg.c	/^    uint8_t     id[RFONE_DELTA_ID_LENGTH];$/;"	m	struct:__anon31	file:
+image1	src/hal_selectImage_TN.c	/^    tIMAGE *image1;$/;"	m	struct:__anon28	file:
+image2	src/hal_selectImage_TN.c	/^    tIMAGE *image2;$/;"	m	struct:__anon28	file:
+image_info	include/hal.h	/^    tNFC_HAL_FW_IMAGE_INFO  image_info;$/;"	m	struct:__anon9
+image_ver	include/hal.h	/^    tNFC_HAL_FW_VER_INFO    image_ver;$/;"	m	struct:__anon9
+init_timeout	osi/osi_common.h	/^    int32_t                 init_timeout;$/;"	m	struct:__anon35
+isSleep	src/device.c	/^bool isSleep;$/;"	v
+isToken	src/util.c	30;"	d	file:
+isUART	src/device.c	/^bool isUART;$/;"	v
+is_NPT_mode	src/hal.c	/^bool is_NPT_mode = false;$/;"	v
+is_default	src/hal_rfreg.c	/^bool is_default = false;$/;"	v
+is_mPOS_image	src/hal_selectImage_TN.c	/^static bool is_mPOS_image(tIMAGE *image)$/;"	f	file:
+is_one_binary	src/hal_rfreg.c	/^    bool        is_one_binary;$/;"	m	struct:__anon29	file:
+is_one_binary	src/hal_rfreg.c	/^bool is_one_binary = false;$/;"	v
+is_prestate_on	src/device.c	/^bool is_prestate_on;$/;"	v
+last_field_override	src/util.c	/^bool last_field_override;$/;"	v
+lastoid	include/hal.h	/^    uint8_t             lastoid;$/;"	m	struct:__anon10
+len	include/hal_msg.h	/^    uint16_t    len;$/;"	m	struct:__anon19
+len	include/hal_msg.h	/^    uint8_t     len;$/;"	m	struct:__anon18
+length	src/hal_selectImage_TN.c	/^    int length;$/;"	m	struct:__anon27	file:
+load_fw_binary	src/hal_selectImage_TN.c	/^static int load_fw_binary(tIMAGE *image, char *file_name)$/;"	f	file:
+load_rf_binary	src/hal_selectImage_TN.c	/^static int load_rf_binary(tIMAGE *image, char *file_name, char *target_code)$/;"	f	file:
+log_file_index	src/persistent_log.c	/^int log_file_index = 1;$/;"	v
+log_ptr	src/device.c	/^bool log_ptr;$/;"	v
+mPOS_mode	src/hal_selectImage_TN.c	/^    bool mPOS_mode;$/;"	m	struct:__anon28	file:
+major	include/hal.h	/^    uint8_t     major;$/;"	m	struct:__anon6
+major_version	include/product.h	/^    uint8_t major_version;$/;"	m	struct:_sproduct_info
+mapped_string	include/util_tracer.h	/^struct mapped_string {$/;"	s
+mem	osi/osi_common.h	/^    sOSI_MEM            *mem[OSI_MAX_MEM_POOL];$/;"	m	struct:__anon36
+mem	osi/osi_common.h	/^    sOSI_MEM            mem[OSI_MAX_MEM_POOL];$/;"	m	struct:__anon36
+mem_max_cnt	osi/osi_common.h	/^    int32_t             mem_max_cnt;                \/* Maximum number of allocated memory pool *\/$/;"	m	struct:__anon36
+msg_event	include/hal.h	/^    uint8_t                     msg_event;          \/* receiving message event *\/$/;"	m	struct:__anon15
+msg_q	include/hal.h	/^    tOSI_QUEUE_HANDLER          msg_q;$/;"	m	struct:__anon15
+msg_task	include/hal.h	/^    tOSI_TASK_HANDLER           msg_task;           \/* HAL main task *\/$/;"	m	struct:__anon15
+mstr_configuration_parameters	include/util_tracer.h	/^struct mapped_string mstr_configuration_parameters[] = {$/;"	v	typeref:struct:mapped_string
+mstr_nfcee_action_notification	include/util_tracer.h	/^struct mapped_string mstr_nfcee_action_notification[] = { \/\/ table 68$/;"	v	typeref:struct:mapped_string
+mstr_rf_technology_and_mode	include/util_tracer.h	/^struct mapped_string mstr_rf_technology_and_mode[] = { \/\/ table 94$/;"	v	typeref:struct:mapped_string
+mutex	osi/osi_common.h	/^    pthread_mutex_t     mutex;$/;"	m	struct:__anon36
+name	osi/osi_common.h	/^    char                    *name;$/;"	m	struct:__anon35
+name	osi/osi_common.h	/^    char            *name;$/;"	m	struct:__anon34
+name	osi/osi_common.h	/^    char         *name;$/;"	m	struct:__anon32
+nci_fragment_pkt	include/hal.h	/^    tNFC_NCI_PKT                *nci_fragment_pkt;  \/* Control msg flagmentation *\/$/;"	m	struct:__anon15
+nci_init_timeout	src/hal_nci.c	/^void nci_init_timeout(void *param)$/;"	f
+nci_last_pkt	include/hal.h	/^    tNFC_NCI_PKT                *nci_last_pkt;      \/* last sent package *\/$/;"	m	struct:__anon15
+nci_packet	include/hal_msg.h	/^        tNFC_NCI_PKT    nci_packet;$/;"	m	union:__anon24::__anon25
+nci_q	include/hal.h	/^    tOSI_QUEUE_HANDLER          nci_q;$/;"	m	struct:__anon15
+nci_read_payload	src/hal_nci.c	/^int nci_read_payload(tNFC_HAL_MSG *msg)$/;"	f
+nci_timer	include/hal.h	/^    tOSI_TIMER_HANDLER          nci_timer;          \/* Timer for NCI message *\/$/;"	m	struct:__anon15
+nfc_close	nfc_nci.c	/^static int nfc_close (hw_device_t *dev)$/;"	f	file:
+nfc_data_callback	src/hal.c	/^bool nfc_data_callback(tNFC_NCI_PKT *pkt)$/;"	f
+nfc_fw_cal_next_frame_length	src/hal_fw.c	/^int nfc_fw_cal_next_frame_length(tNFC_HAL_FW_INFO *fw, int max)$/;"	f
+nfc_fw_force_update_check	src/hal_fw.c	/^bool nfc_fw_force_update_check(tNFC_HAL_FW_INFO *fw)$/;"	f
+nfc_fw_free_image	src/hal_fw.c	/^void nfc_fw_free_image(tNFC_HAL_FW_INFO *fw)$/;"	f
+nfc_fw_get_image	src/hal_fw.c	/^bool nfc_fw_get_image(tNFC_HAL_FW_INFO *fw, char *file_name, uint8_t keyType, bool force)$/;"	f
+nfc_fw_send_cmd	src/hal_fw.c	/^size_t nfc_fw_send_cmd(eNFC_FW_BLCMD cmd, uint8_t *param, size_t paramLen)$/;"	f
+nfc_fw_send_data	src/hal_fw.c	/^int nfc_fw_send_data(uint8_t *data, int len)$/;"	f
+nfc_hal_NPT_open	src/hal.c	/^int nfc_hal_NPT_open(nfc_stack_callback_t *p_cback, nfc_stack_data_callback_t *p_data_cback)$/;"	f
+nfc_hal_close	src/hal.c	/^int nfc_hal_close(const struct nfc_nci_device *p_dev)$/;"	f
+nfc_hal_control_granted	src/hal.c	/^int nfc_hal_control_granted(const struct nfc_nci_device *p_dev)$/;"	f
+nfc_hal_core_initialized	src/hal.c	/^int nfc_hal_core_initialized(const struct nfc_nci_device *p_dev,$/;"	f
+nfc_hal_deinit	src/hal.c	/^void nfc_hal_deinit(void)$/;"	f
+nfc_hal_fw_send_fw_status	src/hal_task.c	/^static void nfc_hal_fw_send_fw_status(unsigned char status)$/;"	f	file:
+nfc_hal_fw_sm	src/hal_task.c	/^void nfc_hal_fw_sm(tNFC_HAL_MSG *msg)$/;"	f
+nfc_hal_fw_timeout	src/hal_task.c	/^static void nfc_hal_fw_timeout(void *param)$/;"	f	file:
+nfc_hal_get_update_image	src/hal_selectImage_TN.c	/^uint8_t *nfc_hal_get_update_image(int type, bool force)$/;"	f
+nfc_hal_grant_finish	src/hal_task.c	/^static void nfc_hal_grant_finish(void)$/;"	f	file:
+nfc_hal_grant_sm	src/hal_task.c	/^void nfc_hal_grant_sm(tNFC_HAL_MSG *msg)$/;"	f
+nfc_hal_info	include/hal.h	/^tNFC_HAL_CB   nfc_hal_info;$/;"	v
+nfc_hal_init	src/hal.c	/^int nfc_hal_init(void)$/;"	f
+nfc_hal_nci_log_dump	src/hal.c	/^void nfc_hal_nci_log_dump(const struct nfc_nci_device *p_dev)$/;"	f
+nfc_hal_npt_control	src/hal.c	/^int nfc_hal_npt_control(const struct nfc_nci_device *p_dev, uint16_t nfc_on_off, uint16_t npt_type)$/;"	f
+nfc_hal_open	src/hal.c	/^int nfc_hal_open(const struct nfc_nci_device *p_dev,$/;"	f
+nfc_hal_open_sm	src/hal_task.c	/^void nfc_hal_open_sm(tNFC_HAL_MSG *msg)$/;"	f
+nfc_hal_postinit_sm	src/hal_task.c	/^void nfc_hal_postinit_sm(tNFC_HAL_MSG *msg)$/;"	f
+nfc_hal_power_cycle	src/hal.c	/^int nfc_hal_power_cycle(const struct nfc_nci_device *p_dev)$/;"	f
+nfc_hal_pre_discover	src/hal.c	/^int nfc_hal_pre_discover(const struct nfc_nci_device *p_dev)$/;"	f
+nfc_hal_prehandler	src/hal_nci.c	/^bool nfc_hal_prehandler(tNFC_NCI_PKT *pkt)$/;"	f
+nfc_hal_rf_get_file_name_tmp	src/hal_rfreg.c	/^char* nfc_hal_rf_get_file_name_tmp(void)$/;"	f
+nfc_hal_rf_get_reg	src/hal_rfreg.c	/^int nfc_hal_rf_get_reg(uint8_t *reg_buffer, int reg_buffer_size)$/;"	f
+nfc_hal_rf_get_reg_id_tmp	src/hal_rfreg.c	/^uint8_t* nfc_hal_rf_get_reg_id_tmp(void)$/;"	f
+nfc_hal_rf_is_default	src/hal_rfreg.c	/^bool nfc_hal_rf_is_default(void)$/;"	f
+nfc_hal_rf_is_one_binary	src/hal_rfreg.c	/^bool nfc_hal_rf_is_one_binary(void)$/;"	f
+nfc_hal_rf_set_file_tmp	src/hal_rfreg.c	/^void nfc_hal_rf_set_file_tmp(char *new_file_name, uint8_t option)$/;"	f
+nfc_hal_rf_set_id	src/hal_rfreg.c	/^void nfc_hal_rf_set_id(uint8_t *reg, int size, uint8_t *id)$/;"	f
+nfc_hal_rf_set_reg_id_tmp	src/hal_rfreg.c	/^void nfc_hal_rf_set_reg_id_tmp(uint8_t *new_id)$/;"	f
+nfc_hal_service_sm	src/hal_task.c	/^void nfc_hal_service_sm(tNFC_HAL_MSG *msg)$/;"	f
+nfc_hal_state_switch	src/hal_task.c	/^static void nfc_hal_state_switch(tNFC_HAL_MSG *msg, eHAL_STATE state)$/;"	f	file:
+nfc_hal_task	src/hal_task.c	/^void nfc_hal_task(void)$/;"	f
+nfc_hal_vs_get_rfreg	src/hal_vs.c	/^size_t nfc_hal_vs_get_rfreg(int id, tNFC_NCI_PKT *pkt)$/;"	f
+nfc_hal_vs_sm	src/hal_task.c	/^void nfc_hal_vs_sm(tNFC_HAL_MSG *msg)$/;"	f
+nfc_hal_write	src/hal.c	/^int nfc_hal_write(const struct nfc_nci_device *p_dev,$/;"	f
+nfc_module_methods	nfc_nci.c	/^static struct hw_module_methods_t nfc_module_methods =$/;"	v	typeref:struct:hw_module_methods_t	file:
+nfc_open	nfc_nci.c	/^static int nfc_open (const hw_module_t* module, const char* name, hw_device_t** device)$/;"	f	file:
+nfc_rf_getver_from_image	src/hal_vs.c	/^bool nfc_rf_getver_from_image(uint8_t *rfreg_ver, tNFC_HAL_VS_INFO *vs)$/;"	f
+nfc_stack_cback	src/hal.c	/^bool nfc_stack_cback(nfc_event_t event, nfc_status_t event_status)$/;"	f
+npt_device_open	src/device.c	/^int npt_device_open()$/;"	f
+npt_device_set_mode	src/device.c	/^int npt_device_set_mode(uint16_t on_off)$/;"	f
+oct0	include/hal_msg.h	/^    uint8_t     oct0;$/;"	m	struct:__anon18
+oid	include/hal_msg.h	/^    uint8_t     oid;$/;"	m	struct:__anon18
+option	src/hal_selectImage_TN.c	/^    uint8_t option;$/;"	m	struct:__anon26	file:
+osi_debug_level	osi/osi.h	/^int osi_debug_level;$/;"	v
+osi_info	osi/osi_common.h	/^tOSI_INFO   osi_info;$/;"	v
+osi_lock	osi/osi_main.c	/^inline void osi_lock()$/;"	f
+osi_task_entry	osi/osi_task.c	/^void osi_task_entry (void *arg)$/;"	f
+osi_unlock	osi/osi_main.c	/^inline void osi_unlock()$/;"	f
+override_timeout	include/hal.h	/^    uint32_t    override_timeout;$/;"	m	struct:__anon13
+page_size	include/hal.h	/^    uint16_t            page_size;$/;"	m	struct:__anon8
+param	include/hal_msg.h	/^        uint8_t         param[NCI_CTRL_SIZE];$/;"	m	union:__anon24::__anon25
+param	include/util_tracer.h	/^    uint8_t param;$/;"	m	struct:mapped_string
+payload	include/hal_msg.h	/^    uint8_t     payload[NCI_MAX_PAYLOAD + 1];$/;"	m	struct:__anon19
+payload	include/hal_msg.h	/^    uint8_t     payload[NCI_MAX_PAYLOAD];$/;"	m	struct:__anon18
+persistent_log_write	src/persistent_log.c	/^void persistent_log_write(char *head, int len, uint8_t *nci_cmd) {$/;"	f
+power_dev	include/hal.h	/^    int                         power_dev;          \/* power device *\/$/;"	m	struct:__anon15
+print_version	src/hal_selectImage_TN.c	/^static void print_version(char *name, tVERSION *ver)$/;"	f	file:
+product	include/hal.h	/^    eNFC_SNFC_PRODUCTS  product;$/;"	m	struct:__anon8
+productGroup	include/product.h	62;"	d
+product_map	include/product.h	/^static eNFC_SNFC_PRODUCTS product_map(uint8_t *ver, uint16_t *base_address)$/;"	f
+prop_default	include/hal.h	/^static char *prop_default[] = {$/;"	v
+prop_list	include/hal.h	/^static char *prop_list[] = {$/;"	v
+propcnt	include/hal.h	/^    int                 propcnt;$/;"	m	struct:__anon10
+propid	include/hal.h	/^    int                 propid;$/;"	m	struct:__anon10
+pw_driver	src/device.c	/^int pw_driver, tr_driver;$/;"	v
+queue	osi/osi_common.h	/^    sOSI_QUEUE          queue[OSI_MAX_QUEUE];$/;"	m	struct:__anon36
+queue	osi/osi_common.h	/^    void            *queue[OSI_QUEUE_SIZE];$/;"	m	struct:__anon34
+queue_get	osi/osi_memory.c	/^void *queue_get (tOSI_QUEUE_HANDLER queue)$/;"	f
+queue_max_cnt	osi/osi_common.h	/^    int32_t             queue_max_cnt;              \/* Maximum number of allocated queue *\/$/;"	m	struct:__anon36
+rawData	include/hal.h	/^    unsigned char       *rawData;$/;"	m	struct:__anon7
+rawDataLen	include/hal.h	/^    unsigned long int   rawDataLen;$/;"	m	struct:__anon7
+read_task	src/device.c	/^tOSI_TASK_HANDLER read_task;$/;"	v
+read_thread	src/device.c	/^void read_thread(void)$/;"	f
+reg_size	src/hal_rfreg.c	/^        int         reg_size;$/;"	m	struct:__anon29::__anon30	file:
+reg_start_addr	src/hal_rfreg.c	/^        int         reg_start_addr;$/;"	m	struct:__anon29::__anon30	file:
+rfreg	include/hal.h	/^    uint8_t             *rfreg;$/;"	m	struct:__anon10
+rfreg_file	include/hal.h	/^    char                rfreg_file[256];$/;"	m	struct:__anon10
+rfreg_img_number_version	include/hal.h	/^    uint8_t             rfreg_img_number_version[4];$/;"	m	struct:__anon10
+rfreg_img_version	include/hal.h	/^    uint8_t             rfreg_img_version[RFREG_VERSION_SIZE];$/;"	m	struct:__anon10
+rfreg_number_version	include/hal.h	/^    uint8_t             rfreg_number_version[4];$/;"	m	struct:__anon10
+rfreg_size	include/hal.h	/^    int                 rfreg_size;$/;"	m	struct:__anon10
+rfreg_version	include/hal.h	/^    uint8_t             rfreg_version[RFREG_VERSION_SIZE];$/;"	m	struct:__anon10
+rfregcnt	include/hal.h	/^    int                 rfregcnt;$/;"	m	struct:__anon10
+rfregid	include/hal.h	/^    int                 rfregid;$/;"	m	struct:__anon10
+sOSI_MEM	osi/osi_common.h	/^} sOSI_MEM;$/;"	t	typeref:struct:__anon33
+sOSI_QUEUE	osi/osi_common.h	/^} sOSI_QUEUE;$/;"	t	typeref:struct:__anon34
+sOSI_TASK	osi/osi_common.h	/^} sOSI_TASK;$/;"	t	typeref:struct:__anon32
+sOSI_TIMER	osi/osi_common.h	/^} sOSI_TIMER;$/;"	t	typeref:struct:__anon35
+sec_kernel_debug	src/device.c	/^void sec_kernel_debug(void)$/;"	f
+sec_nfc_checkVersion_equal	include/hal.h	430;"	d
+sec_nfc_checkVersion_lessThen	include/hal.h	425;"	d
+sec_nfc_checkVersion_moreThen	include/hal.h	420;"	d
+sec_nfc_checkVersion_range	include/hal.h	435;"	d
+sector_size	include/hal.h	/^    uint16_t            sector_size;$/;"	m	struct:__anon8
+select_image_set_chip_code	src/hal_selectImage_TN.c	/^void select_image_set_chip_code(char *code)$/;"	f
+select_image_set_fw_version	src/hal_selectImage_TN.c	/^void select_image_set_fw_version(uint8_t *data, int length)$/;"	f
+select_image_set_rf_version	src/hal_selectImage_TN.c	/^void select_image_set_rf_version(uint8_t *data, int length)$/;"	f
+selected	src/hal_selectImage_TN.c	/^    tIMAGE *selected;$/;"	m	struct:__anon28	file:
+seq_no	include/hal.h	/^    uint8_t                 seq_no;         \/\/ sequence number$/;"	m	struct:__anon9
+setSleepTimeout	src/hal.c	/^void setSleepTimeout(int option, uint32_t timeout)$/;"	f
+set_chip_version	src/hal_selectImage_TN.c	/^static void set_chip_version(uint8_t *data, int length, tVERSION *version)$/;"	f	file:
+set_id_to_rf_reg	src/hal_rfreg.c	/^static void set_id_to_rf_reg(uint8_t *reg, int size, uint8_t *id)$/;"	f	file:
+set_user_prefix	src/util.c	/^void set_user_prefix(char *field)$/;"	f
+setup_uart	src/device.c	/^int setup_uart(int dev, unsigned int speed)$/;"	f
+signature	include/hal.h	/^    unsigned char       *signature;$/;"	m	struct:__anon7
+signatureLen	include/hal.h	/^    unsigned long int   signatureLen;$/;"	m	struct:__anon7
+skipSpace	src/util.c	32;"	d	file:
+skipToken	src/util.c	31;"	d	file:
+sleep_backup	src/device.c	/^bool sleep_backup;$/;"	v
+sleep_timeout	include/hal.h	/^    uint32_t    sleep_timeout;$/;"	m	struct:__anon13
+sleep_timer	include/hal.h	/^    tOSI_TIMER_HANDLER          sleep_timer;          \/* Timer for NCI message *\/$/;"	m	struct:__anon15
+stack_cback	include/hal.h	/^    nfc_stack_callback_t        *stack_cback;       \/* Callback for HAL event *\/$/;"	m	struct:__anon15
+state	include/hal.h	/^    eHAL_STATE                  state;              \/* HAL state *\/$/;"	m	struct:__anon15
+state	include/hal.h	/^    eNFC_HAL_FW_STATE       state;$/;"	m	struct:__anon9
+state	include/hal.h	/^    eNFC_HAL_VS_STATE   state;$/;"	m	struct:__anon10
+state	osi/osi_common.h	/^    OSI_STATE               state;$/;"	m	struct:__anon35
+state	osi/osi_common.h	/^    OSI_STATE       state;$/;"	m	struct:__anon33
+state	osi/osi_common.h	/^    OSI_STATE       state;$/;"	m	struct:__anon34
+state	osi/osi_common.h	/^    OSI_STATE    state;$/;"	m	struct:__anon32
+state_to_string	src/hal_task.c	/^char *state_to_string(eHAL_STATE state)$/;"	f
+store_log	src/persistent_log.c	/^void store_log(void) {$/;"	f
+str	include/util_tracer.h	/^    char *str;$/;"	m	struct:mapped_string
+str_bit_rate	include/util_tracer.h	/^char *str_bit_rate[] = { \/\/ table 95$/;"	v
+str_configuration_status	include/util_tracer.h	/^char *str_configuration_status[] = { \/\/ table 7$/;"	v
+str_core_reset_type	include/util_tracer.h	/^char *str_core_reset_type[] = {$/;"	v
+str_deactivation_reason	include/util_tracer.h	/^char *str_deactivation_reason[] = { \/\/ table 63$/;"	v
+str_deactivation_types	include/util_tracer.h	/^char *str_deactivation_types[] = { \/\/ table 62$/;"	v
+str_destination_specific	include/util_tracer.h	/^char *str_destination_specific[] = { \/\/ table 15$/;"	v
+str_destination_types	include/util_tracer.h	/^char *str_destination_types[] = { \/\/ table 12$/;"	v
+str_direction	include/util_tracer.h	/^char *str_direction[] = {$/;"	v
+str_more_field_values	include/util_tracer.h	/^char *str_more_field_values[] = { \/\/table 44$/;"	v
+str_mt	include/util_tracer.h	/^char *str_mt[] = {$/;"	v
+str_nci_version	include/util_tracer.h	/^char *str_nci_version[] = { \/\/ table 6$/;"	v
+str_nfcc_features	include/util_tracer.h	/^char **str_nfcc_features[] = {$/;"	v
+str_nfcc_features0	include/util_tracer.h	/^char *str_nfcc_features0[] = { \/\/ table 9-0$/;"	v
+str_nfcc_features1	include/util_tracer.h	/^char *str_nfcc_features1[] = { \/\/ table 9-1$/;"	v
+str_nfcc_features2	include/util_tracer.h	/^char *str_nfcc_features2[] = { \/\/ table 9-2$/;"	v
+str_nfcee_protocols	include/util_tracer.h	/^char *str_nfcee_protocols[] = { \/\/ table 98$/;"	v
+str_not_supported	include/util_tracer.h	/^char *str_not_supported = "Not Supported";$/;"	v
+str_notification_type	include/util_tracer.h	/^char *str_notification_type[] = {$/;"	v
+str_oid_core	include/util_tracer.h	/^char *str_oid_core[] = {$/;"	v
+str_oid_nfcee	include/util_tracer.h	/^char *str_oid_nfcee[] = {$/;"	v
+str_oid_rf	include/util_tracer.h	/^char *str_oid_rf[] = {$/;"	v
+str_rf_field_status	include/util_tracer.h	/^char *str_rf_field_status[] = { \/\/ table 21$/;"	v
+str_rf_interfaces	include/util_tracer.h	/^char *str_rf_interfaces[] = {   \/\/ table 99$/;"	v
+str_rf_protocols	include/util_tracer.h	/^char *str_rf_protocols[] = { \/\/ table 96$/;"	v
+str_rf_protocols_prop	include/util_tracer.h	/^char *str_rf_protocols_prop[] = {$/;"	v
+str_rf_technologies	include/util_tracer.h	/^char *str_rf_technologies[] = { \/\/ table 93$/;"	v
+str_rf_technologies_prop	include/util_tracer.h	/^char *str_rf_technologies_prop[] = {$/;"	v
+str_state_codes	include/util_tracer.h	/^char *str_state_codes[] = { \/\/ table 92$/;"	v
+str_table_gid	include/util_tracer.h	/^char **str_table_gid[] = {$/;"	v
+str_tlv_for_rf_nfcee_discovery_request	include/util_tracer.h	/^char *str_tlv_for_rf_nfcee_discovery_request[] = { \/\/ table 65$/;"	v
+str_tlv_nfcee_discovery	include/util_tracer.h	/^char *str_tlv_nfcee_discovery[] = { \/\/ table 84$/;"	v
+str_tlv_rf_communication_parameter_id	include/util_tracer.h	/^char *str_tlv_rf_communication_parameter_id[] = { \/\/ table 71$/;"	v
+str_unknown	include/util_tracer.h	/^char *str_unknown = "Unkown value";$/;"	v
+str_value	include/util_tracer.h	/^char *str_value = "Value";$/;"	v
+str_value_field_for_mode	include/util_tracer.h	/^char *str_value_field_for_mode[] = { \/\/table 43$/;"	v
+str_value_field_for_power_state	include/util_tracer.h	/^char *str_value_field_for_power_state[] = {$/;"	v
+str_value_hex	include/util_tracer.h	/^char *str_value_hex = "Value(Hex)";$/;"	v
+tIMAGE	src/hal_selectImage_TN.c	/^} tIMAGE;$/;"	t	typeref:struct:__anon26	file:
+tIMAGE_TYPE	src/hal_selectImage_TN.c	/^typedef unsigned int tIMAGE_TYPE;$/;"	t	file:
+tNFC_FW_PKT	include/hal_msg.h	/^} tNFC_FW_PKT;$/;"	t	typeref:struct:__anon19
+tNFC_HAL_CB	include/hal.h	/^} tNFC_HAL_CB;$/;"	t	typeref:struct:__anon15
+tNFC_HAL_CONFIG	include/hal.h	/^} tNFC_HAL_CONFIG;$/;"	t	typeref:struct:__anon13
+tNFC_HAL_FW_BL_INFO	include/hal.h	/^} tNFC_HAL_FW_BL_INFO;$/;"	t	typeref:struct:__anon8
+tNFC_HAL_FW_IMAGE_INFO	include/hal.h	/^} tNFC_HAL_FW_IMAGE_INFO;$/;"	t	typeref:struct:__anon7
+tNFC_HAL_FW_INFO	include/hal.h	/^} tNFC_HAL_FW_INFO;$/;"	t	typeref:struct:__anon9
+tNFC_HAL_FW_VER_INFO	include/hal.h	/^} tNFC_HAL_FW_VER_INFO;$/;"	t	typeref:struct:__anon6
+tNFC_HAL_GRANT_CALLBACK	include/hal.h	/^typedef uint8_t (tNFC_HAL_GRANT_CALLBACK) (tNFC_NCI_PKT *pkt);$/;"	t
+tNFC_HAL_MSG	include/hal_msg.h	/^} tNFC_HAL_MSG;$/;"	t	typeref:struct:__anon24
+tNFC_HAL_VS_INFO	include/hal.h	/^} tNFC_HAL_VS_INFO;$/;"	t	typeref:struct:__anon10
+tNFC_NCI_PKT	include/hal_msg.h	/^} tNFC_NCI_PKT;$/;"	t	typeref:struct:__anon18
+tNFC_RFONE_DELTA	src/hal_rfreg.c	/^} tNFC_RFONE_DELTA;$/;"	t	typeref:struct:__anon31	file:
+tNFC_RF_BINARY	src/hal_rfreg.c	/^} tNFC_RF_BINARY;$/;"	t	typeref:struct:__anon29	file:
+tOSI_INFO	osi/osi_common.h	/^} tOSI_INFO;$/;"	t	typeref:struct:__anon36
+tOSI_MEM_HANDLER	osi/osi_common.h	/^typedef sOSI_MEM    *(tOSI_MEM_HANDLER);$/;"	t
+tOSI_QUEUE_HANDLER	osi/osi_common.h	/^typedef sOSI_QUEUE  *(tOSI_QUEUE_HANDLER);$/;"	t
+tOSI_TASK_ENTRY	osi/osi_common.h	/^typedef void        (*tOSI_TASK_ENTRY)(void);$/;"	t
+tOSI_TASK_HANDLER	osi/osi_common.h	/^typedef sOSI_TASK   *(tOSI_TASK_HANDLER);$/;"	t
+tOSI_TIMER_CALLBACK	osi/osi_common.h	/^typedef void        (*tOSI_TIMER_CALLBACK)(void *param);$/;"	t
+tOSI_TIMER_HANDLER	osi/osi_common.h	/^typedef sOSI_TIMER  *(tOSI_TIMER_HANDLER);$/;"	t
+tUPDATE_INFO	src/hal_selectImage_TN.c	/^} tUPDATE_INFO;$/;"	t	typeref:struct:__anon28	file:
+tVERSION	src/hal_selectImage_TN.c	/^} tVERSION;$/;"	t	typeref:struct:__anon27	file:
+tail	osi/osi_common.h	/^    int             tail;$/;"	m	struct:__anon34
+target	include/hal.h	/^    uint8_t     target;$/;"	m	struct:__anon6
+target_code	src/hal_selectImage_TN.c	/^    char* target_code;$/;"	m	struct:__anon28	file:
+target_sector	include/hal.h	/^    int                     target_sector;  \/\/ Target sector during FW updating$/;"	m	struct:__anon9
+task	osi/osi_common.h	/^    pthread_t    task;$/;"	m	struct:__anon32
+task	osi/osi_common.h	/^    sOSI_TASK           task[OSI_MAX_TASK];$/;"	m	struct:__anon36
+task_entry	osi/osi_common.h	/^    tOSI_TASK_ENTRY task_entry;$/;"	m	struct:__anon32
+timeout	osi/osi_common.h	/^    int32_t                 timeout;$/;"	m	struct:__anon35
+timer	osi/osi_common.h	/^    sOSI_TIMER          timer[OSI_MAX_TIMER];$/;"	m	struct:__anon36
+timer_thread	osi/osi_common.h	/^    pthread_t           timer_thread;$/;"	m	struct:__anon36
+timer_thread	osi/osi_timer.c	/^void timer_thread(void)$/;"	f
+timer_thread_flag	osi/osi_common.h	/^    unsigned char       timer_thread_flag;$/;"	m	struct:__anon36
+tmp_file_name	src/hal_rfreg.c	/^char* tmp_file_name = NULL;$/;"	v
+tmp_file_option	src/hal_rfreg.c	/^uint8_t tmp_file_option = 0;$/;"	v
+tmp_reg_id	src/hal_rfreg.c	/^uint8_t* tmp_reg_id = NULL;$/;"	v
+tr_closer	src/device.c	/^int tr_closer;$/;"	v
+tr_driver	src/device.c	/^int pw_driver, tr_driver;$/;"	v
+tr_lock	src/device.c	/^pthread_mutex_t tr_lock;$/;"	v
+trace_buffer	src/persistent_log.c	/^char trace_buffer[MAX_BUFFER_SIZE + CMD_BUFFER_SIZE];$/;"	v
+trans_dev	include/hal.h	/^    int                         trans_dev;          \/* transport device *\/$/;"	m	struct:__anon15
+true	include/hal.h	/^typedef enum {false, true} bool;$/;"	e	enum:__anon1
+true	include/util.h	/^typedef enum {false, true} bool;$/;"	e	enum:__anon16
+type	include/hal_msg.h	/^    uint8_t     type;$/;"	m	struct:__anon19
+type	src/hal_selectImage_TN.c	/^    tIMAGE_TYPE type;$/;"	m	struct:__anon26	file:
+type	src/hal_selectImage_TN.c	/^    tIMAGE_TYPE type;$/;"	m	struct:__anon28	file:
+userPrefix	src/util.c	/^char *userPrefix = NULL;$/;"	v
+usingTimer	osi/osi_common.h	/^    int32_t             usingTimer;$/;"	m	struct:__anon36
+util_nci_analyzer	include/util.h	47;"	d
+util_nci_analyzer	include/util.h	49;"	d
+version	include/hal.h	/^    uint8_t             version[4];$/;"	m	struct:__anon8
+version	src/hal_selectImage_TN.c	/^    uint8_t version[VERSION_MAX];$/;"	m	struct:__anon27	file:
+version_compare	src/hal_selectImage_TN.c	/^static int version_compare(tIMAGE_TYPE type, tVERSION *ver1, tVERSION *ver2)$/;"	f	file:
+vs_info	include/hal.h	/^    tNFC_HAL_VS_INFO            vs_info;$/;"	m	struct:__anon15
+wakeup_delay	src/device.c	/^int wakeup_delay;$/;"	v
+willBeContinuous	src/util.c	/^bool willBeContinuous (char *buffer, size_t maxlen)$/;"	f

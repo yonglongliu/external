@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"स्पीच सिंथेसिस डाटा इनस्टॉलर"</string>
+<string name="installing_message" product="nosdcard">"इनस्टॉल गसान आवाज़ डाटा USB कार्ड्स पेठ."</string>
+<string name="installing_message" product="default">"इनस्टॉल गसान आवाज़ डाटा SD कार्ड्स पेठ."</string>
+<string name="uninstall_message">"आवाज़ डाटा आय कामयाबी सान इनस्टॉल करनः. तुहुय हकियेव वयन यः इनस्टॉलर हिफाज़त सान नेबर कडीथ."</string>
+<string name="uninstall">"अनइनस्टॉल"</string>
+<string name="retry_message" product="nosdcard">""आवाज़ डाटा गासि नः इनस्टॉल. यकीनी बनायेव ज़ि तुहुंद USB स्टोरेज गसेन आसन कम खोत कम 6 MB खाली जाय." "</string>
+<string name="retry_message" product="default">"आवाज़ डाटा गासि नः इनस्टॉल. यकीनी बनायेव ज़ि तुहुंद SD कार्ड स्टोरेज गसेन आसन कम खोत कम 6 MB खाली जाय.अगर तुहुंद कार्ड छु गोडय तुहुंदिस आलःस मंज़, कोशिश कर्येव कार्ड नबर कद्नस तः पत बे लागुन यिह."</string>
+<string name="retry">"दुबारह कोशिश"</string>
+</resources>

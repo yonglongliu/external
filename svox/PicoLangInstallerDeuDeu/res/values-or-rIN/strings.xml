@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"କଥନ ସଂଶ୍ଳେଷଣ ତଥ୍ୟ ସ୍ଥାପକ (DEU-DEU)"</string>
+<string name="installing_message">"SD କାର୍ଡରେ ଧ୍ୱନି ତଥ୍ୟ ସ୍ଥାପନ କରିବା"</string>
+<string name="uninstall_message">"ଧ୍ୱନି ତଥ୍ୟ ସଫଳତାର ସହ ସ୍ଥାପିତ ହେଲା । ବର୍ତ୍ତମାନ ତୁମେ ଏହି ସ୍ଥାପକକୁ ନିରାପଦରେ ବାହାର କରିପାରିବ ।"</string>
+<string name="uninstall">"ବିସ୍ଥାପନ"</string>
+<string name="retry_message">"ଧ୍ୱନି ତଥ୍ୟ  ସ୍ଥାପନ ହୋଇପାରିଲା ନାହିଁ । ଦୟାପୂର୍ବକ ତୁମ ଯନ୍ତ୍ରରେ SD କାର୍ଡ ଲାଗିଛି ଏବଂ ଅତିକମ୍ ରେ 6MB ଖାଲି ସ୍ଥାନ ଅଛି ବୋଲି ସୁନିଶ୍ଚିତ କରନ୍ତୁ । ଯଦି ତୁମ ଯନ୍ତ୍ରରେ SD କାର୍ଡ ଲାଗିଥାଏ, ତା\'ହେଲେ ଦୟାପୂର୍ବକ ତାହା ବାହାର କରି ପୁଣି ଭର୍ତ୍ତି କରନ୍ତୁ ।"</string>
+<string name="retry">"ପୁନଃ ଚେଷ୍ଟା"</string>
+</resources>
